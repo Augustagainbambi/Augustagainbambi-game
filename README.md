@@ -7,3 +7,5 @@ click Releases
 two            
 Click the link
 ![游戏截图](./m/IMG_20260504_092054.jpg)
+three
+![游戏截图](./m/IMG_20260504_092606.jpg)
